@@ -53,7 +53,17 @@ class: center, middle
 
 ---
 
-# Heroes
+# Hero actions
+
+.left-column[Move
+
+Fast Travel
+
+Attack
+
+Skill]
+
+---
 
 * take 1 action/turn
 * Actions: Move, Fast Travel, Attack, Skill
