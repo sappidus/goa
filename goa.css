@@ -1,0 +1,26 @@
+body {
+  color: yellow;
+}
+
+.remark-slide-content {
+  background-color: black;
+  font-size: 18pt;
+}
+
+.left-column {
+  width: 30%;
+  float: left;
+}
+
+.right-column {
+  width: 70%;
+  float: right;
+}
+
+.fade {
+  opacity: 0.25;
+}
+
+.remark-slide-number {
+  opacity: 0;
+}
