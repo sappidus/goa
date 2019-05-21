@@ -37,11 +37,12 @@ class: center, middle
 
 # Minions
 
+* 3 types
 * not directly controlled by players
 * worth coins when defeated (by a hero)
-* "fight" each other at end of round: If one side's minions outnumber the opposite's in a lane, outnumberED side chooses one minion to remove
+* "fight" each other at end of round
+  - If one side's minions outnumber the opposite's in a lane, outnumberED side chooses one minion to remove
 * modify DEF of adjacent/nearby heroes
-* 3 types
 
 ---
 
