@@ -108,8 +108,7 @@ Fast Travel
 .fade[Attack]]
 
 .right-column[* teleport to any space of the same or adjacent Zone
-
-* but only if origin and destination Zones are free of enemy units
+  - but origin and destination Zones must be free of enemy units
 
 * only an action
   - cannot replace other instances of moving]
