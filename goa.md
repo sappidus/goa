@@ -95,7 +95,7 @@ Fast Travel
 
 .right-column[* teleport to any space of the same or adjacent Zone
 
-* only if origin and destination Zones are free of enemy units
+* but only if origin and destination Zones are free of enemy units
 
 * only replaces Move action, not other instances of moving]
 
@@ -115,3 +115,47 @@ Attack
   - some specify "in a straight line"
 
 * instakills Minion(s)]
+
+---
+
+# Hero actions
+
+.left-column[.fade[Move]
+
+.fade[Fast Travel]
+
+Attack
+
+.fade[Skill]]
+
+.right-column[- also kills Heroes who cannot Defend
+  - attacker gains coins = twice defender's level
+  - defender loses half of coins (round up)
+  - remove defender
+  - defender retrieves all cards except red card, which is placed in Turn 1 slot
+  - defender will return **at the end of** turn 1 of following round]
+
+---
+
+# Defense
+
+* only used when attacked
+
+* discard a card with a DEF value
+
+* if DEF >= ATK, defender survives
+
+---
+
+# Hero actions
+
+.left-column[.fade[Move]
+
+.fade[Fast Travel]
+
+.fade[Attack]
+
+Skill]
+
+.right-column[* follow directions ]
+
