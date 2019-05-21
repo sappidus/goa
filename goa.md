@@ -67,13 +67,27 @@ class: center, middle
 
 # Hero actions
 
-.left-column[Move
+.left-column[Skill
+
+.fade[Move]
 
 .fade[Fast Travel]
 
-.fade[Attack]
+.fade[Attack]]
 
-.fade[Skill]]
+.right-column[* follow directions ]
+
+---
+
+# Hero actions
+
+.left-column[.fade[Skill]
+
+Move
+
+.fade[Fast Travel]
+
+.fade[Attack]]
 
 .right-column[* move N spaces
 
@@ -85,13 +99,13 @@ class: center, middle
 
 # Hero actions
 
-.left-column[.fade[Move]
+.left-column[.fade[Skill]
+
+.fade[Move]
 
 Fast Travel
 
-.fade[Attack]
-
-.fade[Skill]]
+.fade[Attack]]
 
 .right-column[* teleport to any space of the same or adjacent Zone
 
@@ -103,13 +117,13 @@ Fast Travel
 
 # Hero actions
 
-.left-column[.fade[Move]
+.left-column[.fade[Skill]
+
+.fade[Move]
 
 .fade[Fast Travel]
 
-Attack
-
-.fade[Skill]]
+Attack]
 
 .right-column[* Melee vs. Ranged vs. Area
   - some specify "in a straight line"
@@ -120,20 +134,19 @@ Attack
 
 # Hero actions
 
-.left-column[.fade[Move]
+.left-column[.fade[Skill]
+
+.fade[Move]
 
 .fade[Fast Travel]
 
-Attack
-
-.fade[Skill]]
+Attack]
 
 .right-column[- also kills Heroes who cannot Defend
   - attacker gains coins = twice defender's level
-  - defender loses half of coins (round up)
-  - remove defender
+  - defender loses half of their coins (round up)
   - defender retrieves all cards except red card, which is placed in Turn 1 slot
-  - defender will return **at the end of** turn 1 of following round]
+  - remove defender; will return **at the end of** turn 1 of following round]
 
 ---
 
@@ -144,18 +157,4 @@ Attack
 * discard a card with a DEF value
 
 * if DEF >= ATK, defender survives
-
----
-
-# Hero actions
-
-.left-column[.fade[Move]
-
-.fade[Fast Travel]
-
-.fade[Attack]
-
-Skill]
-
-.right-column[* follow directions ]
 
