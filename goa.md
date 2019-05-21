@@ -53,6 +53,18 @@ class: center, middle
 
 ---
 
+# Heroes
+
+* take 1 action/turn
+
+* actions are declared via cards
+
+* single reaction: Defend
+
+* [Hold card]
+
+---
+
 # Hero actions
 
 .left-column[Move
@@ -63,12 +75,43 @@ class: center, middle
 
 .fade[Skill]]
 
-.right-column[* hey
-* !]
+.right-column[* move N spaces
+
+* cannot move into/through
+  - other units
+  - impassable spaces]
 
 ---
 
-* take 1 action/turn
-* Actions: Move, Fast Travel, Attack, Skill
-* Reaction: Defend
-* [Hold card]
+# Hero actions
+
+.left-column[.fade[Move]
+
+Fast Travel
+
+.fade[Attack]
+
+.fade[Skill]]
+
+.right-column[* teleport to any space of the same or adjacent Zone
+
+* only if origin and destination Zones are free of enemy units
+
+* only replaces Move action, not other instances of moving]
+
+---
+
+# Hero actions
+
+.left-column[.fade[Move]
+
+.fade[Fast Travel]
+
+Attack
+
+.fade[Skill]]
+
+.right-column[* Melee vs. Ranged vs. Area
+  - some specify "in a straight line"
+
+* instakills Minion(s)]
