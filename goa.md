@@ -28,7 +28,7 @@ class: center, middle
 
 * **When**
   - No enemy minions in a lane at any point
-  
+
 --
 * **How**
   - Move all minions (on board or removed) to spawn points one Zone closer to Throne
