@@ -19,7 +19,7 @@ class: center, middle
 
 # Winning
 
-* push lane into opposing team's Throne
+* *push the lane* into opposing team's Throne
 * (or, push lane 5 times)
 
 ---
