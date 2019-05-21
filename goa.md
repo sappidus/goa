@@ -111,7 +111,8 @@ Fast Travel
 
 * but only if origin and destination Zones are free of enemy units
 
-* only replaces Move action, not other instances of moving]
+* only an action
+  - cannot replace other instances of moving]
 
 ---
 
