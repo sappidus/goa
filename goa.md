@@ -57,11 +57,14 @@ class: center, middle
 
 .left-column[Move
 
-Fast Travel
+.fade[Fast Travel]
 
-Attack
+.fade[Attack]
 
-Skill]
+.fade[Skill]]
+
+.right-column[* hey
+* !]
 
 ---
 
