@@ -13,8 +13,7 @@ class: center, middle
 
 # Objective
 
-<h2>Win</h2>
-(as a team)
+<h2>Win</h2> (as a team)
 
 ---
 
