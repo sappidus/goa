@@ -30,6 +30,7 @@ class: center, middle
 * **When**
   - No enemy minions in a lane at any point
 
+
 --
 
 * **How**
